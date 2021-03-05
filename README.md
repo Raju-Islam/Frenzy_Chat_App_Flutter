@@ -1,4 +1,4 @@
-# frenzy_chat
+## Frenzy Chat
 
 this is a frenzy chat demo
 
